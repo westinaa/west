@@ -1,6 +1,6 @@
 module.exports = {
 
-    token: "MTIxNTcyNjYzMzI5MDMwMTUyMA.GKN8LH.UGCxS43uKm994aTvH43LpK-8Vk78KiyVcxe-Dg", //Bot Tokeniniz => Bot Oluşturduktan Sonra Intentsleri Açmayı Unutma!
+    token: "", //Bot Tokeniniz => Bot Oluşturduktan Sonra Intentsleri Açmayı Unutma!
     guildID: "1215049428373606440", //Kullanıcağın Sunucunun ID'si
     voiceChannelID: "1215680510593081426", // Ses Kanal ID'si
     presence: "west was here", //Botun Durumu
