@@ -28,13 +28,12 @@
         "mongoose": "^7.1.1",
         "node-schedule": "^2.1.1"
     },
-    "name": "west-v14-pm2-bots",
-    "descriptions": "west v14 PM2 Bots",
+    "name": "bes-v14-pm2-bots",
+    "descriptions": "Beş v14 PM2 Bots",
     "version": "1.0.0",
-    "main": "ecosystem.config.json"
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "West",
+    "author": "Beş",
     "license": "GPL-3.0"
 }
